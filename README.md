@@ -4,7 +4,7 @@ Something something!
 
 ## Subheading
 
-More random text added
+Not so random text
 
 ## Local Development
 
