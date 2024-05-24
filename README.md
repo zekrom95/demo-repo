@@ -4,4 +4,8 @@ Something something!
 
 ## Subheading
 
-More random text added
+Actually more random text
+
+## Local Development
+
+1. Open index.html in your browser
